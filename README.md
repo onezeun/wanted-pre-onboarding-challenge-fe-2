@@ -1,5 +1,8 @@
 # 프리온보딩 FE Challenge - TypeScript
 원티드 프리온보딩 챌린지 2월 - TypeScript
+<br />
+
+[JSDoc](https://onezeun.github.io/wanted-pre-onboarding-challenge-fe-2/)
 
 <br />
 
@@ -101,3 +104,4 @@ Item {
 - [JSDoc Boilerplate](https://github.com/pocojang/jsdoc-boilerplate)
 - [clean-jsdoc-theme](https://github.com/ankitskvmdam/clean-jsdoc-theme)
 - [JSDoc를 사용해서 Javasript 문서화해보자!](https://okayoon.tistory.com/entry/JSDoc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Javasript-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [jsdoc-reference](https://typescript-kr.github.io/pages/jsdoc-reference.html)
