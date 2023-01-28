@@ -1,0 +1,29 @@
+{
+  "name": "todo-jsdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/onezeun/wanted-pre-onboarding-challenge-fe-2",
+  "scripts": {
+    "docs": "jsdoc --configure jsdoc.json --verbose",
+    "predeploy": "npm run docs",
+    "deploy": "gh-pages -d docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onezeun/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onezeun/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "devDependencies": {
+    "clean-jsdoc-theme": "^4.2.3",
+    "jsdoc": "^4.0.0"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
