@@ -2,7 +2,7 @@
 원티드 프리온보딩 챌린지 2월 - TypeScript
 <br />
 
-[JSDoc](https://onezeun.github.io/wanted-pre-onboarding-challenge-fe-2/)
+📌 https://onezeun.github.io/wanted-pre-onboarding-challenge-fe-2/
 
 <br />
 
