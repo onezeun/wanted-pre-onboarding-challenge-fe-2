@@ -14,7 +14,7 @@
  */
 
 /** Tags
- * @typedef {object} TagsType
+ * @typedef {object} TagType
  * @property {number} tagId
  * @property {string} name
  */
